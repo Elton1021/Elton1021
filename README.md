@@ -17,4 +17,4 @@ I’m currently learning<br><br>
 
 I’m looking to collaborate on Projects that have any of the above mentioned technology stack.
 
-You can contact me through mail at eltonandrew@gmail.com
+You can contact me through mail at eltona1021@gmail.com
