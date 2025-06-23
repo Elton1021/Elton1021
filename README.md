@@ -1,77 +1,91 @@
 # Elton Andrew | Senior Software Engineer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://eltonandrew.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-andrew-036557166/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eltonandrew2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elton-andrew-036657166/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hi@eltonandrew.com)
+
+---
 
 ## 👋 About Me
 
-I'm a Senior Software Engineer with expertise in building robust, scalable backend systems. With over 4 years of experience, I specialize in Node.js, AWS, and designing microservice architectures that solve complex business problems.
+I'm a **Senior Software Engineer** with over 4 years of experience, specializing in building **robust, scalable backend systems** and **microservices architectures**. Based in Mumbai, India, I'm passionate about solving complex business challenges by leveraging cutting-edge technologies like **Node.js** and **GoLang** on **AWS**. My focus is always on optimizing system performance and ensuring high reliability.
 
-- 🚀 Currently working at **Quloi**
-- 💻 Proficient in **Node.js**, **GoLang**, and **AWS**
-- 🔧 Expert in designing scalable architectures and optimizing performance
-- 📊 Experience with multiple database systems including **MongoDB**, **MySQL**, **Redis** and **ClickHouse**
+* 🚀 Currently driving innovation at **Quloi**.
+* 💻 **Proficient in Node.js and GoLang**, with extensive experience in cloud-native development.
+* 💡 **Expert in designing scalable architectures** and implementing performance optimizations that deliver tangible results.
+* 📊 Hands-on experience with diverse database systems, including **MongoDB**, **MySQL**, **Redis**, and **ClickHouse**.
 
-## 🛠️ Technical Skills
+---
 
-### Languages
-- JavaScript/TypeScript
-- GoLang
+## 🛠️ Technical Toolkit
 
-### Backend
-- Node.js
-- Express
-- Fastify
-- GraphQL
-- REST API Design
+### **Programming Languages**
+* JavaScript / TypeScript
+* GoLang
 
-### Cloud & DevOps
-- AWS Lambda
-- AWS CloudWatch
-- Amazon SQS
-- Serverless Architecture
-- Docker
-- CI/CD
+### **Backend Frameworks & Technologies**
+* Node.js Ecosystem (Express, Fastify, Nest.js)
+* GraphQL & REST API Design
+* Microservices Architecture
+* gRPC
 
-### Databases
-- MySQL
-- MongoDB
-- Redis
-- ClickHouse
+### **Cloud & DevOps**
+* **AWS (Lambda, APIGateway, S3, SQS, CloudWatch, EC2, Route 53)**
+* Azure Functions
+* Serverless Architecture
+* Docker
+* CI/CD Pipelines
 
-## 🏆 Key Achievements
+### **Databases & Data Stores**
+* MySQL
+* MongoDB
+* Redis
+* ClickHouse
 
-- Achieved a **60ms** response time (even with cold starts) by transitioning from Node.js to GoLang
-- Decreased API response time from **10s to 1s** through system optimization
-- Implemented scalable layered architectures for multiple enterprise applications
-- Led migrations from Azure Functions to AWS Lambda, enhancing scalability and performance
-- Maintained consistent response times under 3 seconds in challenging network environments
+---
 
-## 📈 Recent Projects
+## 🏆 Key Achievements & Impact
 
-### Quloi Omni
-Implemented a scalable and open-ended layered architecture, optimizing the codebase for efficiency and future growth.
+My work consistently focuses on delivering significant performance improvements and architectural enhancements:
 
-### Airpay USSD
-Achieved a 60 millisecond response time, even with cold starts, by transitioning from Node.js to GoLang, significantly enhancing system performance.
+* **Pioneered GoLang Adoption:** Achieved a remarkable **10-millisecond cold start** and **1.5-second overall response time** by re-platforming critical services from Node.js to GoLang, setting a new benchmark for efficiency.
+* **Performance Optimization:** Drastically reduced API response times from **10 seconds to under 1 second** through strategic system optimizations, enhancing user experience and system throughput.
+* **Architectural Leadership:** Designed and implemented **scalable layered and microservice architectures** across multiple enterprise applications, ensuring long-term maintainability and flexibility.
+* **Seamless Cloud Migrations:** Successfully led rapid migrations from Azure Functions to **AWS Lambda** (e.g., 3 days for a critical enterprise system), significantly boosting system scalability and overall performance.
+* **High Availability:** Maintained consistent API response times **under 3 seconds** even in geographically diverse and challenging network environments, ensuring robust service delivery.
 
-### Airpay Yako
-Designed and executed a microservice project with layered architecture, ensuring scalability and facilitating smooth migration if needed.
+---
 
-### Airpay Vyaapaar
-Enhanced e-commerce platform post-launch: Developed CMS, Shopping, ONDC, e-KYC features; revamped BBPS, Transactions, ledgers.
+## 🚀 Featured Projects
 
-## 📫 Contact Me
+Here are some highlights from my recent work, showcasing my skills in action. You can explore more details on my [portfolio](https://eltonandrew.dev/projects).
 
-Feel free to reach out for collaboration opportunities or just to connect!
+### **Airpay USSD**
+* Developed a high-performance USSD service re-platformed to **GoLang** for ultra-low latency, achieving **10ms cold starts** and **1.5-second overall response times** for geographically diverse users.
 
-- 📧 Email: eltonandrew2@gmail.com
-- 📱 Phone: +91 7710804049
-- 📍 Location: Mumbai, India
+### **Airpay Vyaapaar**
+* Optimized a high-traffic omnichannel payment platform by migrating it to **microservices**. This achieved an **88.75% reduction in build time** and a **25% performance boost** through strategic optimizations and offloading tasks to SQS.
+
+### **Incred Money Partners**
+* Currently contributing as a Software Engineer II to a robust B2B2C financial platform. My work involves developing critical user-facing modules like "Bullion," leveraging a modern tech stack including **Nest.js** and **gRPC**.
+
+### **Global Enterprise Platform**
+* Spearheaded the rapid 3-day migration of a critical enterprise system from **Azure Functions to AWS Lambda**, significantly enhancing scalability and performance. Concurrently, developed a core system for monitoring and logging international transactions.
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to discussing new opportunities, collaborations, or just sharing insights on backend engineering and scalable systems.
+
+* 📧 **Email:** [hi@eltonandrew.com](mailto:hi@eltonandrew.com)
+* 🌐 **Portfolio:** [eltonandrew.com](https://eltonandrew.com)
+* 🔗 **LinkedIn:** [Elton Andrew](https://www.linkedin.com/in/elton-andrew-036657166/)
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elton1021&show_icons=true&theme=radical" alt="Elton's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Elton1021&show_icons=true&theme=radical" alt="Elton's GitHub Stats" />
 </p>
+
+---
