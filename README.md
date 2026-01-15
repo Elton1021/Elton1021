@@ -19,7 +19,7 @@ I work primarily with **TypeScript/Node.js (NestJS)** on **AWS**, and use **Go**
 
 ## 🧰 Tech Stack
 
-**Languages:** TypeScript, JavaScript, Go, SQL (plus PHP/Java as needed)  
+**Languages:** TypeScript, JavaScript, Go, SQL
 **Backend:** NestJS, Express, Fastify, gRPC, GraphQL  
 **Cloud/Infra:** AWS (Lambda, SQS, S3, EC2, API Gateway, CloudWatch), Docker, Azure Functions  
 **Data:** MongoDB, MySQL, Redis, ClickHouse  
