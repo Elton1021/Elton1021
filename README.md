@@ -78,9 +78,3 @@ Personal finance calculators for quick money insights (React + Go Lambda backend
 - Email: **eltonandrew2@gmail.com**
 - LinkedIn: **https://linkedin.com/in/elton-andrew**
 - Portfolio: **https://eltonandrew.com**
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Elton1021&show_icons=true" alt="Elton's GitHub Stats" />
-</p>
