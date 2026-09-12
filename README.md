@@ -1,4 +1,4 @@
-# Elton Francis Andrew | Backend Engineer (Fintech / Payments)
+# Elton Francis Andrew | Backend Engineer
 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://eltonandrew.com)
@@ -102,13 +102,6 @@ An AI-powered interactive portfolio (Next.js, Go, AWS Lambda, DynamoDB, S3, Clou
 
 🔗 https://eltonandrew.com
 
-
-### Crededal — Financial Calculators (WIP)
-
-
-Personal finance calculators for quick money insights (React + Go Lambda backend).
-
-🔗 https://crededal.com
 
 
 ---
