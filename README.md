@@ -82,7 +82,7 @@ Built scrapers/crawlers for anti-piracy monitoring (web + social workflows), inc
 
 ### Portfolio Website | AI-Powered
 
-An AI-powered interactive portfolio (Next.js, Go, AWS Lambda, DynamoDB, S3, CloudFront, Amazon Bedrock) that acts as a conversational guide, understanding visitor intent and dynamically adapting how my experience and projects are presented. Includes an AI approach classifier that keeps responses on-topic and grounded, full-site AI translation (~30s, down from 2+ minutes), and persistent session recovery, running on ~$4/month of infrastructure.
+An AI-powered interactive portfolio (Next.js, Go, AWS Lambda, DynamoDB, S3, CloudFront, Amazon Bedrock) that acts as a conversational guide, understanding visitor intent and dynamically adapting how my experience and projects are presented. Includes an AI approach classifier that keeps responses on-topic and grounded, full-site AI translation (~45s, down from 2+ minutes), and persistent session recovery, running on ~$4/month of infrastructure.
 
 🔗 https://eltonandrew.com
 
